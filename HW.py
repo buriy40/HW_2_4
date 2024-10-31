@@ -9,3 +9,5 @@ for num in numbers:
             if num % j == 0:
                 is_prime = False
                 break
+if is_prime:
+    primes.append()
