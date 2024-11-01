@@ -10,4 +10,4 @@ for num in numbers:
                 is_prime = False
                 break
 if is_prime:
-    primes.append()
+    primes.append(True)
